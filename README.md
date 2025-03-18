@@ -85,16 +85,20 @@ This is a **fully responsive and feature-rich Hostel Booking WebApp frontend** b
 ## 📸 WebApp Preview  
 
 ### 🏠 Home Page  
-![Home Page](https://github.com/yourusername/Hostel-Booking-WebApp/blob/main/screenshots/home.png?raw=true)  
+![Home Page](https://github.com/rahulpatel51/Hostel-Booking---WebApp/blob/main/Image/Home.png?raw=true)  
 
-### 🏘 Hostel Listings  
-![Hostel Listings](https://github.com/yourusername/Hostel-Booking-WebApp/blob/main/screenshots/hostels.png?raw=true)  
+### 🏘 Room Page  
+![Room Page](https://github.com/rahulpatel51/Hostel-Booking---WebApp/blob/main/Image/Room.png?raw=true)  
 
-### 🛒 Booking Page  
-![Booking Page](https://github.com/yourusername/Hostel-Booking-WebApp/blob/main/screenshots/booking.png?raw=true)  
+### 🏨 Room Booking Page  
+![Room Booking Page](https://github.com/rahulpatel51/Hostel-Booking---WebApp/blob/main/Image/Booking.png?raw=true)  
 
-### 🌙 Dark Mode  
-![Dark Mode](https://github.com/yourusername/Hostel-Booking-WebApp/blob/main/screenshots/dark-mode.png?raw=true)  
+### 🖼️ Photo Gallery Page  
+![Photo Gallery Page](https://github.com/rahulpatel51/Hostel-Booking---WebApp/blob/main/Image/Photo%20Gallery.png?raw=true)  
+
+### ℹ️ About Page  
+![About Page](https://github.com/rahulpatel51/Hostel-Booking---WebApp/blob/main/Image/About.png?raw=true)  
+
 
 ---
 
