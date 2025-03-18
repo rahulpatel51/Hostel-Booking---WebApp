@@ -6,8 +6,7 @@ This is a **fully responsive and feature-rich Hostel Booking WebApp frontend** b
 
 ## 🚀 Features
 - 🌟 **Modern & Responsive UI/UX**  
-- 🏠 **Hostel Listings with Detailed View**  
-- 🔍 **Advanced Search & Filtering**  
+- 🏠 **Hostel Listings with Detailed View**   
 - ❤️ **Add to Wishlist / Favorites**  
 - 📅 **Booking Management UI**  
 - 🔐 **User Authentication (Login/Signup UI)**   
@@ -19,24 +18,67 @@ This is a **fully responsive and feature-rich Hostel Booking WebApp frontend** b
 
 ## 🏗️ Tech Stack
 - **Frontend:** React + TypeScript (TSX)  
-- **Styling:** Tailwind CSS, SCSS  
-- **State Management:** Redux Toolkit / Context API  
-- **Routing:** React Router  
-- **Animations:** Framer Motion / GSAP  
-- **API Calls:** Axios / Fetch API  
+- **Styling:** Tailwind CSS, SCSS   
+  
 
 ---
 
 ## 📂 Folder Structure
 
-hostel-booking-webapp/ │── src/ │ ├── components/ # Reusable UI components │ 
-├── pages/ # Main pages (Home, Hostels, Booking, Profile, etc.) │ 
-├── assets/ # Images, icons, and static assets │ ├── context/ # Global state management (Redux/Context API) │ 
-├── hooks/ # Custom React hooks │ ├── services/ # API services (Axios calls) │ ├── utils/ # Helper functions │ 
-├── App.tsx # Main app component │ ├── main.tsx # Entry point │── public/ # Static assets like favicon, index.html 
-│── package.json # Project dependencies │── tailwind.config.js # Tailwind CSS configuration 
-│── tsconfig.json # TypeScript configuration
-
+├── hostel-booking-webapp
+├── next
+├── app
+│   ├── about
+│   │   └── page.tsx
+│   ├── book-room
+│   │   └── page.tsx
+│   ├── contact
+│   │   └── page.tsx
+│   ├── facilities
+│   │   └── page.tsx
+│   ├── gallery
+│   │   └── page.tsx
+│   ├── login
+│   │   └── page.tsx
+│   ├── register
+│   │   └── page.tsx
+│   └── rooms
+│       └── [id]
+│           └── page.tsx
+├── globals.css
+├── layout.tex
+├── page.tex
+├── tailwind.config.ts
+├── components
+│   ├── ui
+│   ├── booking-form.tex
+│   ├── booking-steps.tex
+│   ├── facilities.tex
+│   ├── featured-rooms...
+│   ├── hero-section.tex
+│   ├── room-amenities...
+│   ├── room-filters.tex
+│   ├── room-gallery.tex
+│   ├── site-footer.tex
+│   ├── site-header.tex
+│   ├── testimonials.tex
+│   ├── theme-provider...
+│   └── theme-toggle.tex
+├── hooks
+├── Image
+├── lib
+├── node_modules
+├── public
+├── styles
+├── .gitignore
+├── components.json
+├── next-env.d.ts
+├── next.config.mjs
+├── package-lock.json
+├── package.json
+├── pnpm-lock.yaml
+├── postcss.config.mjs
+└── tsconfig.json
 
 ---
 
