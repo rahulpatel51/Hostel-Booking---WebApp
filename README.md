@@ -106,8 +106,7 @@ This is a **fully responsive and feature-rich Hostel Booking WebApp frontend** b
 ```sh
 1️⃣ Clone the repository:  
 
-git clone https://github.com/yourusername/Hostel-Booking-WebApp.git
-
+git clone https://github.com/rahulpatel51/Hostel-Booking---WebApp.git
 2️⃣ Navigate to the project directory:
 cd hostel-booking-webapp
 
